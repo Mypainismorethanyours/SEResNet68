@@ -27,6 +27,7 @@ of no more than 5 million trainable parameters.
 
 ## ⏳ Training and Testing
 Run `main.ipynb` to reproduce the result.
+
 You need to modify different hyperparameters and select different network SEResNet architectures in `main.ipynb` to conduct different experiments.
 
 
@@ -43,4 +44,4 @@ You need to modify different hyperparameters and select different network SEResN
 
 
 ## 👩‍⚖️ Acknowledgement
-*Authors:* Shengyang(Steven Li), Xinyan Xie, Sitong Chen 
+*Authors:* Shengyang(Steven) Li, Xinyan Xie, Sitong Chen 
