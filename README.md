@@ -1,4 +1,5 @@
-# Overview 
+# SEResNet68
+## 📦 Overview
 We came up with a modified ResNet architecture with the highest test accuracy of 96.48% on the
 CIFAR-10 image classification dataset, under the constraint
 of no more than 5 million trainable parameters.
