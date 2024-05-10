@@ -21,9 +21,7 @@ of no more than 5 million trainable parameters.
 - SE_ResNet_55.py : SEResNet model with 55 layers.
 - SE_ResNet_68.py : SEResNet model with 68 layers.
 - cifar_test_nolabels.pkl : A custom test dataset.
-- inference_on_kaggle.ipynb : Inference notebook using the highest accuracy model to predict and generate submission on Kaggle.
 - main.ipynb : Train and test.
-- submission.csv : Prediction of the custom test dataset and submission to submit on Kaggle.
 
 ## ⏳ Training and Testing
 Run `main.ipynb` to reproduce the result.
